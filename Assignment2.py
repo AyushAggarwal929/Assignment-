@@ -16,7 +16,6 @@ print(line1.replace(' ', ''))
 
 
 # ANSWER 2
-# Taking information from user
 na = 'Ayush Aggarwal'
 sid = 21104044
 dep = 'Electrical'
@@ -61,9 +60,9 @@ elif y > x:
 
 
 # ANSWER 5
-a = input('Enter a line:')
+nam = input('Enter a line:')
 # Checking if name is present in string
-if 'name' in a:
+if 'name' in nam:
     print('Yes')
 else:
     print('No')
