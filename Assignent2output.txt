@@ -1,0 +1,47 @@
+SOLUTION 1-
+35
+egaugnal evitisnes esac a si nohtyP
+a case sensitive 
+Python is object oriented language
+10
+Pythonisacasesensitivelanguage
+
+
+SOLUTION 2-
+Hey Ayush Aggarwal Here!
+My SID is, 21104044
+I am from Electrical department and my CGPA is 9.7
+
+
+SOLUTION 3-
+8
+58
+50
+224 , 40
+14 , 0
+
+
+SOLUTION 4-
+Enter first number2
+Enter second number9
+Enter third number29
+29 is the greatest number
+
+
+SOLUTION 5-
+Enter a line:my name is ayush
+Yes
+
+
+SOLUTION 6-
+(If True)
+Enter first length3
+Enter second length4
+Enter third length5
+Yes, it is possible to form a triangle
+
+(If False)
+Enter first length2
+Enter second length9
+Enter third length29
+No, it is not possible to form a triangle
