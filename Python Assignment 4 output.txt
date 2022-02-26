@@ -1,0 +1,123 @@
+ANSWER 1 ->
+Move disc 1 from source A to destination B
+Move disc 2 from source A to destination C
+Move disc 1 from source B to destination C
+Move disc 3 from source A to destination B
+Move disc 1 from source C to destination A
+Move disc 2 from source C to destination B
+Move disc 1 from source A to destination B
+
+
+
+
+
+ANSWER 2 ->
+Part a :-
+Enter the length of series :7
+       [1]
+      [1, 1]
+     [1, 2, 1]
+    [1, 3, 3, 1]
+   [1, 4, 6, 4, 1]
+  [1, 5, 10, 10, 5, 1]
+[1, 6, 15, 20, 15, 6, 1]
+
+Part b :-
+Enter the length of series :9
+          1
+         1 1
+        1 2 1
+       1 3 3 1
+      1 4 6 4 1
+     1 5 10 10 5 1
+    1 6 15 20 15 6 1
+   1 7 21 35 35 21 7 1
+  1 8 28 56 70 56 28 8 1
+
+
+
+
+
+ANSWER 3 ->
+Enter first number :7658
+Enter second number :75675
+
+The quotient when 7658 is divided by 75675 is 0
+The remainder when 7658 is divided by 75675 is 7658
+
+Ques 3a
+Function is callable
+7658 is Not-callable
+75675 is Not-callable
+
+Ques 3b
+All result values are NOT 'non-zero'
+
+Ques 3c
+Values greater than 4 are 7658,5,6
+
+Ques 3d
+Above result in set form is shown below:
+{7658, 5, 6}
+
+Ques 3e
+The above set has been converted to immutable.
+
+Ques 3f
+Max value from set is 7658
+Hash value of 7658 is 7658
+
+
+
+
+
+ANSWER 4 ->
+My name is Ayush and my roll no. is 21104044
+Calling destructor
+
+
+
+
+
+
+ANSWER 5 ->
+Details of all employees ->
+Name : Mehak , Salary : 40000
+Name : Ashok , Salary : 50000
+Name : Viren , Salary : 60000
+
+Part a :-
+Details of all employees ->
+Name : Mehak , Salary : 70000
+Name : Ashok , Salary : 50000
+Name : Viren , Salary : 60000
+
+Part b :-
+Name : Mehak , Salary : 40000
+Name : Ashok , Salary : 50000
+Employee Viren data has been removed
+
+
+
+
+
+ANSWER 6 ->
+a) If friendship is real :-
+          WELCOME TO THE FRIENDSHIP GAME
+Enter name of player 1 :mukesh
+Enter name of player 2 :sita
+
+Enter Word by mukesh :applemango
+Enter Word by suresh :mangoapple
+
+Friendship of mukesh and sita is REAL
+
+b) If friendship is fake :-
+          WELCOME TO THE FRIENDSHIP GAME
+Enter name of player 1 :suresh
+Enter name of player 2 :geeta
+
+Enter Word by sita :applemango
+Enter Word by geeta :orange
+
+Friendship of suresh and geeta is FAKE
